@@ -1,0 +1,8 @@
+Segment,Profit_Flag,Total_Orders,Total_Sales
+Consumer,Loss,6521,1290765
+Consumer,Profit,19997,5217376
+Corporate,Loss,3771,747311
+Corporate,Profit,11658,3077497
+Home Office,Loss,2252,451974
+Home Office,Profit,7091,1857982
+Segment,Profit_Flag,1,0.0
